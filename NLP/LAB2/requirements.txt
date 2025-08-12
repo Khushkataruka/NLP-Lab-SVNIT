@@ -1,2 +1,0 @@
-automathon
-graphviz
